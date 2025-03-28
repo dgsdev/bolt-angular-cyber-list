@@ -16,7 +16,7 @@ interface Task {
   imports: [CommonModule, FormsModule],
   template: `
     <div class="container">
-      <h1 class="title">CYBER TASK LIST</h1>
+      <h1 class="title">CYBER DGS TASK LIST</h1>
       
       <div class="input-group">
         <input
